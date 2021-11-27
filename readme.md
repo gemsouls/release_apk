@@ -1,1 +1,1 @@
-# (download apk)[https://github.com/gemsouls/release_apk/releases]
+# [download apk](https://github.com/gemsouls/release_apk/releases)
