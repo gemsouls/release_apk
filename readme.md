@@ -1,2 +1,3 @@
 # [download apk](https://github.com/gemsouls/release_apk/releases)
-Good Luck!!!
+
+You will see a message on lark if update! Good Luck!!!
